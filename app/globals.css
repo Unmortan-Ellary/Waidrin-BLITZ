@@ -1,6 +1,0 @@
-@import "tailwindcss" important;
-
-.radix-themes {
-  --default-font-family: var(--font-grenze) !important;
-  --heading-font-family: var(--font-cinzel-decorative) !important;
-}
